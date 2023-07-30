@@ -1,0 +1,17 @@
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden !important;
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  font-family: "Great Vibes", cursive;
+  font-family: "Poppins", sans-serif, Arial;
+  color: #333;
+}

@@ -1,0 +1,107 @@
+/* big pc 1408px  */
+@media (max-width: 88em) {
+  html {
+    font-size: 93.75%;
+  }
+}
+/* -------laptop 1200px --------- */
+@media (max-width: 75em) {
+  html {
+    font-size: 87.5%;
+  }
+  .header-footer-text {
+    font-size: 4.2rem;
+  }
+}
+/* ------tablate 992px --------- */
+@media (max-width: 62em) {
+  html {
+    font-size: 81.25%;
+  }
+  .text-form-book {
+    font-size: 4.2rem;
+  }
+  .textt-form-book {
+    top: 4rem;
+  }
+  .text-form > h2 {
+    top: 5rem;
+  }
+  .form-news > div {
+    width: 70%;
+  }
+}
+/* -------smaller tablate 768px --------- */
+@media (max-width: 48em) {
+  html {
+    font-size: 75%;
+  }
+  .slider {
+    height: 85vh;
+  }
+  .figure-nav-text {
+    bottom: 20rem;
+  }
+  .slider-text-title {
+    font-size: 3rem;
+  }
+  .text-aboute-head {
+    margin-top: 3rem;
+  }
+  .text-aboute > h2 {
+    right: 6rem;
+    font-size: 3rem;
+  }
+  .details {
+    border-top: none;
+    position: static;
+    padding: 4.8rem 0 0;
+  }
+  .details > div {
+    color: #333;
+  }
+  .section-aboute {
+    margin: 2.6rem 0 2rem;
+  }
+  .text-header > h2 {
+    left: 2rem;
+    top: 3rem;
+  }
+  .header-text {
+    font-size: 4rem;
+  }
+  .form-width {
+    margin-top: 2rem;
+  }
+}
+/* // ----------- mobile    576px        ------------------- */
+@media (max-width: 36rem) {
+  .text-aboute > h2 {
+    right: 2rem;
+    margin: -1rem;
+  }
+  .section-picture {
+    height: 120vh;
+  }
+  .text-header > h2 {
+    width: 90%;
+  }
+  .carousel-control-next,
+  .carousel-control-prev {
+    display: none;
+  }
+  .tex-menu-name > a {
+    font-size: 1.2rem;
+    margin-left: 1.2rem;
+  }
+  .form-news > div {
+    width: 80%;
+  }
+  .figure-nav-text {
+    bottom: 9rem;
+  }
+  .nav-top-secound {
+    top: 0rem;
+    background-color: rgba(75, 75, 75, 0.4);
+  }
+}
