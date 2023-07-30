@@ -1,6 +1,8 @@
-#Restaurant
+# Restaurant
 
-**Order food and reserve a table for your events **
+Order food and reserve a table for your events
+
+- [Demo Project](https://niloofar-anisi.github.io/restaurant/)
 
 
 
@@ -14,16 +16,15 @@
 ![pic-8](https://github.com/Niloofar-anisi/restaurant/assets/136443219/044d8f56-dac7-4bef-8f33-111cd5cb8d75)
 ![pic-9](https://github.com/Niloofar-anisi/restaurant/assets/136443219/a2e96470-5dd2-4ecb-b38a-ed550d77b340)
 
-
-
-- [Demo Project]( https://niloofar-anisi.github.io/restaurant/)
-
 - Developed by: niloofar anisi
 
 - Created: 2023
 
 - Technologies Used: Html , css ,bootstrap
 
-- Role: Frontend
-
 - How to reach me : with my [linkedin](https://www.linkedin.com/in/niloofar-anisi-9879a624a/)
+
+
+
+
+
